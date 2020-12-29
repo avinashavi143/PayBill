@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PayBill</string>
+    <string name="EnterBill">Enter Your Bill</string>
+    <string name="percentageBill">Bill %</string>
+    <string name="Tip_Percentage">Tip Percentage</string>
+    <string name="Pay">Genarate Bill</string>
+    <string name="result"></string>
+</resources>
